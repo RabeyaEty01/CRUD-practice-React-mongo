@@ -1,0 +1,11 @@
+.header-nav{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-nav a{
+    margin-left: 30px;
+    margin-top: 50px;
+}

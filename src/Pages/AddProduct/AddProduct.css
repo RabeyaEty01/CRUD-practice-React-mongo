@@ -1,0 +1,27 @@
+.add-div{
+   position: absolute;
+   max-width: 900px;
+   min-width: 310px;
+   max-height: 600px;
+   min-height: 420px;
+   margin: auto;
+   top: 40%;
+   left: 50%;
+   border-radius: 20px;
+   transform: translate(-40%,-50%);
+   background-color: rgba(247, 234, 247, 0.26);
+}
+
+
+.add-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.add-form input, textarea{
+    width: 90%;
+   
+}
